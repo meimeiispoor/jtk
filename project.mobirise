@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Suthikarn513-17",
-    "currentPage": "HOME.html",
+    "currentPage": "BRAND NU.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -24,14 +24,16 @@
     "versionFirst": "3.12.1",
     "uniqCompNum": 48,
     "versionPublish": "3.12.1",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/location-128x128.png",
     "noImageResize": ""
   },
   "pages": {
     "M2.html": {
       "settings": {
-        "title": "Web Site Creator Title",
-        "meta_descr": "Web Site Creator Description",
+        "title": "M2",
+        "meta_descr": "M2",
         "order": 3
       },
       "components": [
@@ -183,8 +185,8 @@
     },
     "MENU.html": {
       "settings": {
-        "title": "Web Site Maker Title",
-        "meta_descr": "Web Site Maker Description",
+        "title": "MENU",
+        "meta_descr": "",
         "order": 2
       },
       "components": [
@@ -590,8 +592,8 @@
     },
     "NB2.html": {
       "settings": {
-        "title": "Site Creator Title",
-        "meta_descr": "Site Creator Description",
+        "title": "NB2",
+        "meta_descr": "NB2",
         "order": 4
       },
       "components": [
@@ -650,7 +652,7 @@
             "imageSize": 50,
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/2018-12-16-8-2000x11254.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/2018-12-16-8-2000x11251.png",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
@@ -743,8 +745,8 @@
     },
     "COCOON.html": {
       "settings": {
-        "title": "Website Builder Title",
-        "meta_descr": "Website Builder Description",
+        "title": "COCOON",
+        "meta_descr": "COCOON",
         "order": 5
       },
       "components": [
@@ -896,7 +898,7 @@
     },
     "SECRET SOCIETY051.html": {
       "settings": {
-        "title": "Site Maker Title",
+        "title": "SECRET SOCIETY051",
         "meta_descr": "Site Maker Description",
         "order": 6
       },
@@ -1049,7 +1051,7 @@
     },
     "CLUB VERA.html": {
       "settings": {
-        "title": "Website Creator Title",
+        "title": "CLUB VERA",
         "meta_descr": "Website Creator Description",
         "order": 8
       },
@@ -1202,8 +1204,8 @@
     },
     "BRAND NU.html": {
       "settings": {
-        "title": "Website Generator Title",
-        "meta_descr": "Website Generator Description",
+        "title": "BRAND NU",
+        "meta_descr": "BRAND NU",
         "order": 10
       },
       "components": [
@@ -1355,8 +1357,8 @@
     },
     "OCTAGON.html": {
       "settings": {
-        "title": "Site Builder Title",
-        "meta_descr": "Site Builder Description",
+        "title": "OCTAGON",
+        "meta_descr": "OCTAGON",
         "order": 7
       },
       "components": [
@@ -1508,8 +1510,8 @@
     },
     "MASS.html": {
       "settings": {
-        "title": "Site Generator Title",
-        "meta_descr": "Site Generator Description",
+        "title": "MASS",
+        "meta_descr": "MASS",
         "order": 9
       },
       "components": [
