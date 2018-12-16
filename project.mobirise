@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Suthikarn513-17",
-    "currentPage": "BRAND NU.html",
+    "currentPage": "HOME.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -515,8 +515,8 @@
     "HOME.html": {
       "settings": {
         "main": true,
-        "title": "",
-        "meta_descr": "",
+        "title": "HOME",
+        "meta_descr": "HOME",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
@@ -652,7 +652,7 @@
             "imageSize": 50,
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/2018-12-16-8-2000x11251.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/2018-12-16-8-2000x11253.png",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
